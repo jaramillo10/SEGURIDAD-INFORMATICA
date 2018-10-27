@@ -1,0 +1,25 @@
+body{
+	background:url(../imagenes/unad.jpg);
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-position:center;
+}
+ 
+	
+"solo para pruebas"
+b,p
+	width: 1700px;
+	margin:20px 50px;
+	padding:5px;
+	display:inline-block;
+	border:10px;
+	
+background:#ff8000;
+}
+.caja {
+	position:relative;
+	top:;
+	bottom:;
+	right:1000px;
+	left:1000px; 
+}
